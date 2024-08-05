@@ -8,7 +8,7 @@ List of participants and affiliations:
 -Cynthia Woosley,  Virgina Highlands Community College, Flex, cwoosley@vhcc.edu
 
 # Project Summary
-We are developing an activity that compares a herbicide resistant to a herbicide suseptible weed (or Arabidopsis).  The students will figure out which protein is affected, what the sequence difference is between the resistant and suseptible varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.
+We are intending to develop an activity that compares sturctural and molecular differences between a herbicide resistant and a herbicide suseptible weed (or Arabidopsis).  The students will figure out which protein is affected, what the sequence difference is between the resistant and suseptible varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.
 
 This activity targets an introductory college audience - Introduction to Biology.  It uses BLAST and protein databases.
 
