@@ -8,14 +8,24 @@ List of participants and affiliations:
 -Cynthia Woosley,  Virgina Highlands Community College, Flex, cwoosley@vhcc.edu
 
 # Project Summary
-We are intending to develop an activity that compares sturctural and molecular differences between a herbicide resistant and a herbicide suseptible weed (or Arabidopsis).  The students will figure out which protein is affected, what the sequence difference is between the resistant and suseptible varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.
+Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
+
+We are intending to develop an activity that compares sturctural and molecular differences between a herbicide resistant and a herbicide sensitive weed (or Arabidopsis).  The students will figure out which protein is affected, what the sequence difference is between the resistant and sensitive varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.
 
 This activity targets an introductory college audience - Introduction to Biology.  It uses BLAST and protein databases.
 
-Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
 
 # Curricular Package Details
-List the specific learning goals students will achieve with this curriculum.
+List the specific learning goals students will achieve with this curriculum
+
+- Successfully utilize NCBI databases: BLAST, icN3D, PubMed
+- Understand transcription, translation, and codon table
+- Predict what effect a mutation will have on protein activity
+- Understand mutatations: missense, frameshift, nonsense
+- Use computer tools to model the protein structure
+- Understand general mechanisms of herbicides
+- Understand the role of selective pressures on evolution of organisms
+
 
 ## Learning Objectives
 List the specific learning goals students will achieve with this curriculum.
