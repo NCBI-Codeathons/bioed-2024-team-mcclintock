@@ -1,4 +1,4 @@
-# Team Project Name
+# Genomic Analysis of Glyphosate Resistance in Crops
 
 List of participants and affiliations:
 
