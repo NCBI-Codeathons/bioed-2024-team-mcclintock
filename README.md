@@ -16,19 +16,18 @@ This activity targets an introductory college audience - Introduction to Biology
 
 
 # Curricular Package Details
-List the specific learning goals students will achieve with this curriculum
 
-- Successfully utilize NCBI databases: BLAST, icN3D, PubMed
+
+## Learning Objectives
+List the specific learning goals students will achieve with this curriculum.
+
+- Successfully utilize NCBI databases and software: BLAST, icN3D, PubMed, COBALT; and other software: Expasy
 - Understand transcription, translation, and codon table
 - Predict what effect a mutation will have on protein activity
 - Understand mutatations: missense, frameshift, nonsense
 - Use computer tools to model the protein structure
 - Understand general mechanisms of herbicides
 - Understand the role of selective pressures on evolution of organisms
-
-
-## Learning Objectives
-List the specific learning goals students will achieve with this curriculum.
 
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
