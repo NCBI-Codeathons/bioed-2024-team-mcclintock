@@ -5,7 +5,7 @@ List of participants and affiliations:
 - Hattie Dambroski, Normandale Community College, Minnesota, Writer, hattie.dambroski@normandale.edu
 - Marie Montes-Matias, Union College of Union County, New Jersey, Flex, marie.montes-matias@ucc.edu
 - Michael Peglar, Northern Virgina Community College, Annandale Campus, Respource Specialist, mtpeglar@gmail.com
-- Jennifer Schroeder, Young Harris College, Georgia, Team Leader, jcschroeder@whc.edu
+- Jennifer Schroeder, Young Harris College, Georgia, Team Leader, jcschroeder@yhc.edu
 - Cynthia Woosley,  Virgina Highlands Community College, Flex, cwoosley@vhcc.edu
 
 # Project Summary
