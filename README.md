@@ -22,7 +22,7 @@ This activity targets an introductory college audience - Introduction to Biology
 ## Learning Objectives
 List the specific learning goals students will achieve with this curriculum.
 
-- Successfully utilize NCBI databases and software: BLAST, icN3D, PubMed, COBALT; and other software: Expasy
+- Successfully utilize NCBI databases and software: BLAST, iCn3D, PubMed, COBALT; and other software: Expasy
 - Understand transcription, translation, and codon table
 - Predict what effect a mutation will have on protein activity
 - Understand mutatations: missense, frameshift, nonsense
