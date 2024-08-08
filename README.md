@@ -8,12 +8,14 @@ List of participants and affiliations:
 - Jennifer Schroeder, Young Harris College, Georgia, Team Leader, jcschroeder@yhc.edu
 - Cynthia Woosley,  Virgina Highlands Community College, Flex, cwoosley@vhcc.edu
 
+# Target Audience
+This activity targets an introductory biology college audience. It can be modified for upper level classes as well.  As written it would be appropriate for Introduction to Biology and Environmental Biology. 
+
 # Project Summary
-Briefly describe the developed curriculum package. Include the target audience (e.g., high school biology students) and highlight the NCBI resources used.
+We have developed an activity that at its core studies the Central Dogma and protein structure.
+It compares structural and molecular differences between a Roundup resistant and a Roundup sensitive weed, using _Arabidopsis_ as our model organism.  The students will figure out which protein is affected, what the DNA and amino acid sequence difference is between the resistant and sensitive varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.  The following NCBI databases will be used: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D
 
-We are intending to develop an activity that compares sturctural and molecular differences between a herbicide resistant and a herbicide sensitive weed (or Arabidopsis).  The students will figure out which protein is affected, what the sequence difference is between the resistant and sensitive varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.
 
-This activity targets an introductory college audience - Introduction to Biology.  It uses BLAST and protein databases.
 
 
 # Curricular Package Details
@@ -22,13 +24,14 @@ This activity targets an introductory college audience - Introduction to Biology
 ## Learning Objectives
 List the specific learning goals students will achieve with this curriculum.
 
-- Successfully utilize NCBI databases and software: BLAST, iCn3D, PubMed, COBALT; and other software: Expasy
-- Understand transcription, translation, and codon table
-- Predict what effect a mutation will have on protein activity
-- Understand mutatations: missense, frameshift, nonsense
-- Use computer tools to model the protein structure
-- Understand general mechanisms of herbicides
-- Understand the role of selective pressures on evolution of organisms
+- Summarize the relationships between transcription, translation, and the universal genetic code 
+- Utilize successfully NCBI and EXPASY databases and software, including: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D
+  - Analyze DNA and protein sequence information  
+  - Detect a mutation in an unknown sequence by comparing it to wild type sequence
+- Predict how a specific DNA mutation can cause a phenotype change
+- Understand the general mechanisms of action of herbicides in plants and their potential effects on humans
+- Explore the role of selective pressures on evolution of organisms
+
 
 ## Course Materials
 Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
