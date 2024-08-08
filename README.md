@@ -1,4 +1,4 @@
-# Genomic Analysis of Glyphosate Resistance in Crops
+# In the Weeds: Genomic Analysis of Glyphosate Resistance in Crop Fields
 
 List of participants and affiliations:
 
@@ -13,6 +13,7 @@ This activity targets an introductory biology college audience. It can be modifi
 
 # Project Summary
 We have developed an activity that at its core studies the Central Dogma and protein structure.
+
 It compares structural and molecular differences between a Roundup resistant and a Roundup sensitive weed, using _Arabidopsis_ as our model organism.  The students will figure out which protein is affected, what the DNA and amino acid sequence difference is between the resistant and sensitive varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.  The following NCBI databases will be used: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D
 
 
@@ -22,8 +23,6 @@ It compares structural and molecular differences between a Roundup resistant and
 
 
 ## Learning Objectives
-List the specific learning goals students will achieve with this curriculum.
-
 - Summarize the relationships between transcription, translation, and the universal genetic code 
 - Utilize successfully NCBI and EXPASY databases and software, including: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D
   - Analyze DNA and protein sequence information  
