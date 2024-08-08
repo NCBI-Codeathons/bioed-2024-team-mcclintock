@@ -41,7 +41,7 @@ The assessments for this will be the protein produced in iCn3D and open ended di
 ## Future Work
 There are many different directions you can add on to this activity. For example the effects on pollinators, GMOs such as Roundup ready crops, the ecology of roundup resistant weeds like milkweed, health consequences in humans, model organisms like _Arabidopsis_, effects in the soil micobiome.  
 
-You could also look at other herbicides like Paraquat, Antifungals like Manzate, Insecticides like DDT, or Endocrine Disruptors like Atrazine.
+You could also look at other Herbicides like Paraquat, Antifungals like Manzate, Insecticides like DDT, or Endocrine Disruptors like Atrazine.
 
 # NCBI Codeathon Disclaimer
 This poject was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
