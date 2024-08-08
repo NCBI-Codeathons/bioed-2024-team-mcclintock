@@ -33,7 +33,9 @@ It compares structural and molecular differences between a Roundup resistant and
 
 
 ## Course Materials
-Specify the resources developed, including lesson plans, activities, worksheets, presentations, etc. List file names, including file formats (e.g., .docx, .pdf).
+Files will uploaded soon
+
+List file names, including file formats (e.g., .docx, .pdf).
 
 ## Assessments
 The assessments for this will be the protein produced in iCn3D and open ended discussion questions.
