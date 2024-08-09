@@ -39,13 +39,23 @@ It compares structural and molecular differences between a Roundup resistant and
 
 [Student Worksheet_ Genomic Analysis .pdf](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Student%20Worksheet_%20Genomic%20Analysis%20.pdf)
 
+[Teacher Resource.docx](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Teacher%20Resource.docx)
+
+[Teacher Resource.pdf](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Teacher%20Resource.pdf)
+
 [EPSPS_cDNAs_Resistant_final.txt](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/EPSPS_cDNAs_Resistant_final.txt)
 
 [EPSPS_cDNAs_Sensitive_final.txt](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/EPSPS_cDNAs_Sensitive_final.txt)
 
+[Sepuences.docx](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Sequences.docx)
+
 [Sequences.pdf](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Sequences.pdf)
 
-[Sepuences.docx](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Sequences.docx)
+[Assessment.docx](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Assessment.docx)
+
+[Assessment.pdf](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Assessment.pdf)
+
+
 
 ## AssessmentsEPSPS_cDNAs_Resistant_final.txt
 The assessments for this will be the protein produced in iCn3D and open ended discussion questions.
