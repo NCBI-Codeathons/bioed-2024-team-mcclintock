@@ -16,7 +16,7 @@ This activity targets high school A&P Biology and college Introductory Biology. 
 # Project Summary
 We have developed an activity that at its core studies the Central Dogma and protein structure.
 
-It compares structural and molecular differences between a Roundup resistant and a Roundup sensitive weed, using _Arabidopsis_ as our model organism.  The students will figure out which protein is affected, what the DNA and amino acid sequence difference is between the resistant and sensitive varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.  The following NCBI databases are used: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D.
+It compares structural and molecular differences between a Roundup (glyphosate) resistant and a Roundup (glyphosate) sensitive weed, using _Arabidopsis_ as our model organism.  The students will figure out which protein is affected, identify DNA and amino acid substitutions between the resistant and sensitive varieties, and predict or vizualize the impact of the change in protein structure.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.  The following NCBI databases will be used: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D.
 
 
 
@@ -61,7 +61,7 @@ It compares structural and molecular differences between a Roundup resistant and
 The assessments for this will be the protein produced in iCn3D and open ended discussion questions.
 
 ## Future Work
-There are many different directions you can add on to this activity. For example the effects on pollinators, GMOs such as Roundup ready crops, the ecology of roundup resistant weeds like milkweed, health consequences in humans, model organisms like _Arabidopsis_, effects in the soil micobiome.  
+There are many different directions you can add on to this activity. For example the effects on pollinators, GMOs such as Roundup ready crops, the ecology of roundup resistant weeds like milkweed, health concerns in humans, model organisms like _Arabidopsis_, effects in the soil micobiome.  
 
 You could also look at other Herbicides like Paraquat, Antifungals like Manzate, Insecticides like DDT, or Endocrine Disruptors like Atrazine.
 
