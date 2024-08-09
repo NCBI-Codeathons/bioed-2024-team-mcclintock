@@ -35,8 +35,7 @@ It compares structural and molecular differences between a Roundup resistant and
 
 
 ## Course Materials
-Files will uploaded soon
-
+[Sequences.pdf] (docs/sequence.pdf)
 List file names, including file formats (e.g., .docx, .pdf).
 
 ## Assessments
