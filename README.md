@@ -1,6 +1,6 @@
 # In the Weeds: Genomic Analysis of Glyphosate Resistance in Crop Fields
 
-__# Team McClintock__
+# Team McClintock
 
 List of participants and affiliations:
 
