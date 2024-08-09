@@ -35,8 +35,7 @@ It compares structural and molecular differences between a Roundup (glyphosate)-
 
 
 ## Course Materials
-[Sequences.pdf] (docs/sequence.pdf)
-List file names, including file formats (e.g., .docx, .pdf).
+
 
 ## Assessments
 Assessments for this activity will be the protein produced in iCn3D and open-ended discussion questions.
