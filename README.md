@@ -1,5 +1,6 @@
 # In the Weeds: Genomic Analysis of Glyphosate Resistance in Crop Fields
 
+__#Team McClintock__
 List of participants and affiliations:
 
 - Hattie Dambroski, Normandale Community College, Minnesota, Writer, hattie.dambroski@normandale.edu
