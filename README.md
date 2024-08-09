@@ -11,12 +11,12 @@ List of participants and affiliations:
 - Cynthia Woosley,  Virginia Highlands Community College, Flex, cwoosley@vhcc.edu
 
 # Target Audience
-This activity targets high school A&P Biology and college Introductory Biology. It can be modified for upper level classes as well.  As written it would be appropriate for Introduction to Biology and Environmental Biology. 
+This activity targets high school A&P Biology and college Introductory Biology. It can be modified for upper-level classes as well.  As written it would be appropriate for Introduction to Biology and Environmental Biology. 
 
 # Project Summary
 We have developed an activity that at its core studies the Central Dogma and protein structure.
 
-It compares structural and molecular differences between a Roundup resistant and a Roundup sensitive weed, using _Arabidopsis_ as our model organism.  The students will figure out which protein is affected, what the DNA and amino acid sequence difference is between the resistant and sensitive varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.  The following NCBI databases are used: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D.
+It compares structural and molecular differences between a Roundup (glyphosate)-resistant and a Roundup (glyphosate)-sensitive weed, using _Arabidopsis_ as our model organism.  The students will figure out which protein is affected, identify  DNA and amino acid substitutions between the resistant and sensitive varieties, and predict/visualize the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistant weed.  The following NCBI databases are used: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D.
 
 
 
