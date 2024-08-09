@@ -11,12 +11,12 @@ List of participants and affiliations:
 - Cynthia Woosley,  Virginia Highlands Community College, Flex, cwoosley@vhcc.edu
 
 # Target Audience
-This activity targets high school A&P Biology and college Introductory Biology. It can be modified for upper level classes as well.  As written it would be appropriate for Introduction to Biology and Environmental Biology. 
+This activity targets high school A&P Biology and college Introductory Biology. It can be modified for upper-level classes as well.  As written it would be appropriate for Introduction to Biology and Environmental Biology. 
 
 # Project Summary
 We have developed an activity that at its core studies the Central Dogma and protein structure.
 
-It compares structural and molecular differences between a Roundup resistant and a Roundup sensitive weed, using _Arabidopsis_ as our model organism.  The students will figure out which protein is affected, what the DNA and amino acid sequence difference is between the resistant and sensitive varieties, and what the protein differences look like.  Then the students will suggest an alternative herbicide that uses a different pathway to kill the resistand weed.  The following NCBI databases are used: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D.
+It compares structural and molecular differences between a Roundup (glyphosate)-resistant and a Roundup (glyphosate) sensitive weed, using _Arabidopsis_ as our model organism.  The students will figure out which protein is affected, identify any DNA and amino acid substitution (s) between the resistant and sensitive varieties, and predict/visualize the structural impact of the substitution.  Based on the glyphosate resistance metabolic pathway involved, students can use this information to suggest an alternative herbicide that uses a different pathway to kill the resistant weed.  The following NCBI databases are used: PubMed, PubChem, nucleotide BLAST, protein-BLAST, and iCn3D.
 
 
 
@@ -35,19 +35,19 @@ It compares structural and molecular differences between a Roundup resistant and
 
 
 ## Course Materials
-[Sequences.pdf] ((https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Sequences.pdf))
-
+[Sequences.pdf] (docs/sequence.pdf)
+List file names, including file formats (e.g., .docx, .pdf).
 
 ## Assessments
-The assessments for this will be the protein produced in iCn3D and open ended discussion questions.
+Assessments for this activity will be the protein produced in iCn3D and open-ended discussion questions.
 
 ## Future Work
-There are many different directions you can add on to this activity. For example the effects on pollinators, GMOs such as Roundup ready crops, the ecology of roundup resistant weeds like milkweed, health consequences in humans, model organisms like _Arabidopsis_, effects in the soil micobiome.  
+There are many different directions you can add on to this activity. For example the effects on pollinators, GMOs such as Roundup ready crops, the ecology of roundup resistant weeds like milkweed, health concerns in humans, model organisms like _Arabidopsis_, and effects in the soil microbiome.  
 
 You could also look at other Herbicides like Paraquat, Antifungals like Manzate, Insecticides like DDT, or Endocrine Disruptors like Atrazine.
 
 # NCBI Codeathon Disclaimer
-This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
+This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on the collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
 
 For general questions about NCBI software and tools, please visit: [NCBI Contact Page](https://www.ncbi.nlm.nih.gov/home/about/contact/)
 
