@@ -34,7 +34,7 @@ It compares structural and molecular differences between a Roundup resistant and
 - Explore the role of selective pressures on evolution of organisms
 
 
-## Course Materials[
+## Course Materials
 [Student Worksheet_ Genomic Analysis .docx](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Student%20Worksheet_%20Genomic%20Analysis%20.docx)
 
 [Student Worksheet_ Genomic Analysis .pdf](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Student%20Worksheet_%20Genomic%20Analysis%20.pdf)
