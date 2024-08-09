@@ -35,8 +35,8 @@ It compares structural and molecular differences between a Roundup resistant and
 
 
 ## Course Materials
-[Sequences.pdf] ([docs/sequence.pdf](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Sequences.pdf))
-List file names, including file formats (e.g., .docx, .pdf).
+[Sequences.pdf] ((https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Sequences.pdf))
+
 
 ## Assessments
 The assessments for this will be the protein produced in iCn3D and open ended discussion questions.
