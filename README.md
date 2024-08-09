@@ -48,7 +48,7 @@ There are many different directions you can add on to this activity. For example
 You could also look at other Herbicides like Paraquat, Antifungals like Manzate, Insecticides like DDT, or Endocrine Disruptors like Atrazine.
 
 # NCBI Codeathon Disclaimer
-This poject was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
+This project was created as part of the BioEd Summit Curricula-thon, a week-long event focused on collaborative development of data-driven learning experiences. While we encourage you to explore and adapt this project, please be aware that NCBI does not provide ongoing support for it.
 
 For general questions about NCBI software and tools, please visit: [NCBI Contact Page](https://www.ncbi.nlm.nih.gov/home/about/contact/)
 
