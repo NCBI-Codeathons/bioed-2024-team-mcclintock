@@ -57,7 +57,7 @@ It compares structural and molecular differences between a Roundup resistant and
 
 
 
-## AssessmentsEPSPS_cDNAs_Resistant_final.txt
+## Assessments
 The assessments for this will be the protein produced in iCn3D and open ended discussion questions.
 
 ## Future Work
