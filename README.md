@@ -6,9 +6,9 @@ List of participants and affiliations:
 
 - Hattie Dambroski, Normandale Community College, Minnesota, Writer, hattie.dambroski@normandale.edu
 - Marie Montes-Matias, Union College of Union County, New Jersey, Flex, marie.montes-matias@ucc.edu
-- Michael Peglar, Northern Virgina Community College, Annandale Campus, Resource Specialist, mtpeglar@gmail.com
+- Michael Peglar, Northern Virginia Community College, Annandale Campus, Resource Specialist, mtpeglar@gmail.com
 - Jennifer Schroeder, Young Harris College, Georgia, Team Leader, jcschroeder@yhc.edu
-- Cynthia Woosley,  Virgina Highlands Community College, Flex, cwoosley@vhcc.edu
+- Cynthia Woosley,  Virginia Highlands Community College, Flex, cwoosley@vhcc.edu
 
 # Target Audience
 This activity targets high school A&P Biology and college Introductory Biology. It can be modified for upper level classes as well.  As written it would be appropriate for Introduction to Biology and Environmental Biology. 
