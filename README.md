@@ -35,7 +35,7 @@ It compares structural and molecular differences between a Roundup resistant and
 
 
 ## Course Materials
- ([Sequences.pdf](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Sequences.pdf))
+ [Sequences.pdf](https://github.com/NCBI-Codeathons/bioed-2024-team-mcclintock/blob/main/curriculum_materials/Sequences.pdf)
 
 
 ## Assessments
