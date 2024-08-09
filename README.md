@@ -11,7 +11,7 @@ List of participants and affiliations:
 - Cynthia Woosley,  Virgina Highlands Community College, Flex, cwoosley@vhcc.edu
 
 # Target Audience
-This activity targets an introductory biology college audience. It can be modified for upper level classes as well.  As written it would be appropriate for Introduction to Biology and Environmental Biology. 
+This activity targets high school A&P Biology and college Introductory Biology. It can be modified for upper level classes as well.  As written it would be appropriate for Introduction to Biology and Environmental Biology. 
 
 # Project Summary
 We have developed an activity that at its core studies the Central Dogma and protein structure.
